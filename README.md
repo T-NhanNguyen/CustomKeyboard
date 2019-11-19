@@ -1,2 +1,2 @@
 # CustomKeyboard
-Python code for creating a simple GUI that allows users to edit keymaping for their custom keyboard
+This is my development branch for testing and backing up work
